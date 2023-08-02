@@ -1,0 +1,72 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "img": "https://lab.marsit.uz/media/shop/Mars%20Airpods/Mars_Airpods_anB6Ly3.png",
+      "name": "Mars Airpods",
+      "coins": 899,
+      "ostatok": 6
+    },
+    {
+      "id": 1,
+      "img": "https://lab.marsit.uz/media/shop/Mars%20Watch/Mars_watch_kHsej2q.png",
+      "name": "Mars Watch",
+      "coins": 899,
+      "ostatok": 6
+    },
+    {
+      "id": 2,
+      "name": "Mars Pen",
+      "img": "https://lab.marsit.uz/media/shop/Mars%20pen/pen_N3vqgQr.jpg",
+      "coins": 899,
+      "ostatok": 6
+    },
+    {
+      "id": 3,
+      "name": "Mars Rug",
+      "img": "https://lab.marsit.uz/media/shop/Mars%20Rug/rug.jpg",
+      "coins": 899,
+      "ostatok": 6
+    },
+    {
+      "id": 4,
+      "name": "Mars Earphones",
+      "img": "https://lab.marsit.uz/media/shop/Mars%20Earphones/Mars_earphone_1n4LcZO.png",
+      "coins": 899,
+      "ostatok": 6
+    },
+    {
+      "id": 5,
+      "name": "Mars Earphones",
+      "img": "https://lab.marsit.uz/media/shop/Mars%20Earphones/Mars_earphone_1n4LcZO.png",
+      "coins": 899,
+      "ostatok": 6
+    }
+  ],
+  "bot": [
+    {
+      "id": 0,
+      "title": "Even Battle",
+      "time": "13:00",
+      "date": "26-Iyul",
+      "location": "Tinchlik",
+      "eventDate": "27-Iyul 11:00"
+    },
+    {
+      "id": 1,
+      "title": "Ta'til",
+      "time": "18:00",
+      "date": "26-Iyul",
+      "location": "All stations",
+      "eventDate": "28-Iyul 11:00"
+    },
+    {
+      "id": 0,
+      "title": "Even Battle",
+      "time": "14:00",
+      "date": "26-Iyul",
+      "location": "Tinchlik",
+      "eventDate": "30-Iyul 11:00"
+    }
+  ]
+}
